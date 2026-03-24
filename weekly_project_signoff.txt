@@ -3,12 +3,12 @@ Note: 1. Write your name  2. Fill this form each week  3. Do not delete the prev
 
 ICS 325 Internet Application Development  
 
-Student Name: 
+Student Name: Jimmy Taiwo
 
 
 FP1: 
 
-My Contribution for this week is:
+My Contribution for this week is: 
 
 
 My goals for next week are:
@@ -36,13 +36,13 @@ My goals for next week are:
 --------------------------------------------------------
 FP4:     
 
-My Contribution for this week is:
+My Contribution for this week is: Worked with the team to implement the search function
 
 
 My goals for next week are:
 
 
-
+Research on how to build the preferences Panel (default dictionary, results per page, theme) and deep dive into Cookies 
 --------------------------------------------------------
 
 FP5:   
